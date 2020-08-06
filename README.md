@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Build Status](http://runbot.odoo.com/runbot/badge/flat/1/master.svg)](http://runbot.odoo.com/runbot)
 [![Tech Doc](http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F)](http://www.odoo.com/documentation/master)
 [![Help](http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F)](https://www.odoo.com/forum/help-1)
@@ -31,3 +32,7 @@ For a standard installation please follow the <a href="https://www.odoo.com/docu
 from the documentation.
 
 Then follow <a href="https://www.odoo.com/documentation/12.0/tutorials.html">the developer tutorials</a>
+=======
+# OdooApp
+Odoo Application
+>>>>>>> 7a83994d55ec0282e59309f7447afd91ce653cdd
